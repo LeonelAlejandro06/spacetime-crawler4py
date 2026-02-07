@@ -1,0 +1,64 @@
+Unique pages: 336
+Longest page: https://www.stat.uci.edu/covid19/about.html
+Longest page word count: 7406
+
+Top 50 words (stopwords removed):
+data	599
+computer	431
+uci	415
+research	385
+university	378
+science	362
+information	331
+irvine	301
+professor	292
+new	272
+analysis	266
+informatics	263
+version	252
+results	247
+will	245
+students	243
+uc	234
+ics	229
+code	228
+time	210
+damon	205
+bayer	205
+technology	199
+school	189
+california	187
+learning	187
+statistics	186
+project	186
+may	183
+work	178
+people	175
+also	163
+past	162
+city	161
+department	158
+ignored	158
+versions	157
+abstract	153
+model	153
+view	151
+markellekelly	150
+vnminin	148
+us	147
+use	145
+date	145
+county	144
+one	143
+full	142
+repository	142
+sciences	140
+
+Subdomains (alphabetical) with unique page counts:
+ics.uci.edu, 67
+luci.ics.uci.edu, 1
+stat.ics.uci.edu, 3
+www-db.ics.uci.edu, 16
+www.ics.uci.edu, 5
+www.informatics.uci.edu, 194
+www.stat.uci.edu, 50
